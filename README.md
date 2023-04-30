@@ -24,8 +24,6 @@ Used a clock and X input leading into the base-10 counter and base-6 counter. Of
 
 The out of the base-10 counter, along with the x signal, fed into the base-6 counter, which outputs A B C D, fed directly into another base-10 display driver. The output of the other display driver fed into the left-most display.
 
-## Quirks:
-
 ## Counters Summarized:
 
 **J**<sub>A</sub> = B'C'D'x + BCDx'
